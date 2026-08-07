@@ -2,7 +2,7 @@
 
 ## Project
 
-Restaurant Review Website
+Movie Review Website
 
 ## Headless CMS
 
@@ -15,8 +15,8 @@ PostgreSQL (Neon)
 ## Team
 
 - Yan Zhang
-- 
-- 
+- Hui Chen
+- Harsh Kumar
 
 ## Getting Started
 
